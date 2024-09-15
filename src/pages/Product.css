@@ -1,0 +1,97 @@
+li {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#lipstick {
+    height: 500px;
+    width: 450px;
+    border: 2px solid whitesmoke;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#mocha {
+    height: 500px;
+    width: 450px;
+    margin-top: 30px;
+    border: 2px solid whitesmoke;
+}
+
+#lipstick:hover{
+    transform: scale(1,1.1);
+}
+#mocha:hover{
+    transform: scale(1,1.1);
+}
+#img {
+    position: relative;
+}
+
+#desc {
+    position: absolute;
+    margin-left: 960px;
+    top: 25px;
+    width: 500px;
+}
+
+#btn{
+    border: 2px solid rgb(237, 231, 231);
+    border-radius: 1px;
+    background-color: white;
+}
+#btn:hover{
+    border: 2px solid black;
+}
+#button1{
+      border: 1px solid deeppink;
+      color: deeppink;
+      border-radius: 25px;
+      padding: 10px;
+      background-color: white;
+}
+#button3 {
+    border-radius: 5px;
+    padding: 12px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: white;
+    border: 2px solid rgb(237, 231, 231);
+    margin-bottom: 15px;
+}
+#button3:hover {
+    border: 2px solid black;
+}
+#button2 {
+    background-color: deeppink;
+    color: white;
+    border: 1px solid deeppink;
+    border-radius: 5px;
+    width: 270px;
+    margin-left: 5px;
+    padding: 12px;
+}
+#button4{
+    
+        background-color: deeppink;
+        color: white;
+        border: 1px solid deeppink;
+        border-radius: 5px;
+        width: 270px;
+        margin-left: 5px;
+        padding: 12px;
+    
+}
+.swal-button {
+    padding: 7px 19px;
+    border-radius: 2px;
+    background-color: rgb(98, 173, 98);
+    font-size: 12px;
+    color: black;
+    border: 1px solid rgb(98, 173, 98);
+  }
+  .swal-text {
+    color: darkgreen;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

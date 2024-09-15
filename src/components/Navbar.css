@@ -1,0 +1,16 @@
+.speaker-link {
+    font-size: 15px;
+    color: black;
+  }
+  
+  .speaker-link-text {
+    text-decoration: none;
+    color: inherit; 
+  }
+  
+  .speaker-link-text:hover {
+    color:orangered; 
+  }
+  h6:hover{
+    color:orangered; 
+  }
